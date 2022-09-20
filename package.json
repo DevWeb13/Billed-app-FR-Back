@@ -2,7 +2,7 @@
   "name": "billapp-backend",
   "version": "1.0.0",
   "description": "backend app for billapp",
-  "main": "index.js",
+  "main": "server.js",
   "author": "techer jean sebastien <techerjeansebastien.pro@gmail.com>",
   "license": "MIT",
   "scripts": {
@@ -37,8 +37,5 @@
     "setupFilesAfterEnv": [
       "./setupTests.js"
     ]
-  },
-  "engines": {
-    "node": "16.x"
   }
 }
