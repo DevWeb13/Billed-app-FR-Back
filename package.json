@@ -37,5 +37,8 @@
     "setupFilesAfterEnv": [
       "./setupTests.js"
     ]
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
